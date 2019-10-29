@@ -4,7 +4,7 @@
     "static/js/0.23fce8b1.chunk.js.map": "/static/js/0.23fce8b1.chunk.js.map",
     "static/js/1.8375380a.chunk.js": "/static/js/1.8375380a.chunk.js",
     "static/js/1.8375380a.chunk.js.map": "/static/js/1.8375380a.chunk.js.map",
-    "main.css": "/static/css/main.ffa3230d.chunk.css",
+    "main.css": "/static/css/main.399b3d09.chunk.css",
     "main.js": "/static/js/main.2b60d8c9.chunk.js",
     "main.js.map": "/static/js/main.2b60d8c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7d1cbda2.js",
@@ -38,16 +38,16 @@
     "static/js/17.d4d2dabf.chunk.js": "/static/js/17.d4d2dabf.chunk.js",
     "static/js/17.d4d2dabf.chunk.js.map": "/static/js/17.d4d2dabf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cd7eb7f125005976535da3f783c4e01c.js": "/precache-manifest.cd7eb7f125005976535da3f783c4e01c.js",
+    "precache-manifest.9852d9810cb8e67a307bd6ffa9d9d963.js": "/precache-manifest.9852d9810cb8e67a307bd6ffa9d9d963.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ffa3230d.chunk.css.map": "/static/css/main.ffa3230d.chunk.css.map",
+    "static/css/main.399b3d09.chunk.css.map": "/static/css/main.399b3d09.chunk.css.map",
     "static/media/IGMC.jpg": "/static/media/IGMC.32e4bf76.jpg",
     "static/media/igmc_menu.jpg": "/static/media/igmc_menu.e30c3f6f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d1cbda2.js",
     "static/js/4.09ad899b.chunk.js",
-    "static/css/main.ffa3230d.chunk.css",
+    "static/css/main.399b3d09.chunk.css",
     "static/js/main.2b60d8c9.chunk.js"
   ]
 }

@@ -1,0 +1,2 @@
+(this["webpackJsonpcsaigmc-front"]=this["webpackJsonpcsaigmc-front"]||[]).push([[23],{307:function(a,e,t){"use strict";t.r(e);var n=t(0),c=t.n(n),r=(t(178),t(173),t(61),t(39),t(77)),s=t(158),i=(t(24),t(62),t(206)),p=Object(r.a)((function(a){a.spacing(100)}));e.default=function(){var a;a=c.a.createElement(i.a,{queryObject:{query_params:"paper"}});p();return c.a.createElement(s.a,{container:!0},a)}}}]);
+//# sourceMappingURL=23.03d17b36.chunk.js.map
